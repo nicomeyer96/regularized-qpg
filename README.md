@@ -1,7 +1,8 @@
 # Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization
 
 [![Static Badge](https://img.shields.io/badge/arXiv-0000.00000-red)
-](https://arxiv.org/search/quant-ph?searchtype=author&query=Meyer,+N)
+](https://arxiv.org/search/quant-ph?searchtype=author&query=Meyer,+N) [![Static Badge](https://img.shields.io/badge/Zenodo-10.5281/zenodo.14002695-blue)](https://doi.org/10.5281/zenodo.14002695)
+
 
 This repo contains the code for the paper 
 "Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization", 
@@ -48,7 +49,7 @@ over multiple runs.
 > **Downloading Pre-Computed Results:** <br/>
 > Producing the full set of raw results for the paper is computationally extensive,
 > i.e. we expect it to take about 950 processors hours on a typical 3.7GHz 12-core processor.<br/><br/>
-> Therefore, we provide the pre-computed results: ADD LINK.<br/>
+> Therefore, we provide the pre-computed results: https://doi.org/10.5281/zenodo.14002695.<br/>
 > Just place these in the `results` folder and run `unzip data.zip` to extract the files.
 
 We provide a single bash script that can be used to re-produce the full data set undlerlying the results in the paper:
