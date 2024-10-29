@@ -1,12 +1,12 @@
 # Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization
 
-[![Static Badge](https://img.shields.io/badge/arXiv-0000.00000-red)
-](https://arxiv.org/search/quant-ph?searchtype=author&query=Meyer,+N) [![Static Badge](https://img.shields.io/badge/Zenodo-10.5281/zenodo.14002695-blue)](https://doi.org/10.5281/zenodo.14002695)
+[![Static Badge](https://img.shields.io/badge/arXiv-2410.21117-red)
+](https://arxiv.org/abs/2410.21117) [![Static Badge](https://img.shields.io/badge/Zenodo-14002695-blue)](https://doi.org/10.5281/zenodo.14002695)
 
 
 This repo contains the code for the paper 
-"Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization", 
-N. Meyer, J. Berberich, C. Mutschler, and D. Scherer (2024).
+["Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization", 
+N. Meyer et al., arXiv:2410.21117 (2024)](https://arxiv.org/abs/2410.21117).
 
 > Quantum machine learning leverages quantum computing to enhance accuracy and reduce model complexity compared to 
 > classical approaches, promising significant advancements in various fields. Within this domain, quantum reinforcement 
@@ -177,9 +177,9 @@ If you use this implementation or results from the paper, please cite our work a
 @article{meyer2024robustness,
   title={Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization},
   author={Meyer, Nico and Berberich, Julian and Mutschler, Christopher and Scherer, Daniel D.},
-  journal={arXiv:...},
+  journal={arXiv:2410.21117},
   year={2024},
-  doi={.../arXiv...}
+  doi={10.48550/arXiv.2410.21117}
 }
 ```
 
